@@ -1,5 +1,5 @@
 # akash sharma (23911) cse-2
-
+# rachit jha (23907) cse-2
 from tkinter import *
 from tkinter import filedialog
 import os
